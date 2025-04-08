@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jerson rosales\\Desktop\\Pila Dinamica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA3EB65-59EE-466E-A506-7DEDB01F1CE0}|Pila Dinamica\\Pila Dinamica.vcxproj|C:\\Users\\jerson rosales\\Desktop\\Pila Dinamica\\Pila Dinamica\\Pila Dinamica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA3EB65-59EE-466E-A506-7DEDB01F1CE0}|Pila Dinamica\\Pila Dinamica.vcxproj|solutionrelative:Pila Dinamica\\Pila Dinamica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pila Dinamica.cpp",
+              "DocumentMoniker": "C:\\Users\\jerson rosales\\Desktop\\Pila Dinamica\\Pila Dinamica\\Pila Dinamica.cpp",
+              "RelativeDocumentMoniker": "Pila Dinamica\\Pila Dinamica.cpp",
+              "ToolTip": "C:\\Users\\jerson rosales\\Desktop\\Pila Dinamica\\Pila Dinamica\\Pila Dinamica.cpp",
+              "RelativeToolTip": "Pila Dinamica\\Pila Dinamica.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T18:07:48.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
